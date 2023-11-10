@@ -6,7 +6,7 @@ pragma solidity ^0.8.18;
 
 /**
  * @title Secured/Audited Contract
- * @author Marcellus Ifeanyi
+ * @author Isaac Wanger
  * @notice This is the Audited Contract that fixes the bugs identified in the `StorageVictim.sol` contract
  */
 
