@@ -30,8 +30,8 @@ The full audit report is available here, `./StorageVictimContractAuditReport.md`
 
 ## Authors
 
-Marcellus Ifeanyi
-[@metacraftersio](https://twitter.com/Mars_Energy)
+Isaac
+[@metacraftersio](https://twitter.com/0xkyng)
 
 ## License
 
